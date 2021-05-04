@@ -15,9 +15,9 @@ Create a script using VBA that will loop through all the stocks for one year and
   
 * You should also have conditional formatting that will highlight positive change in green and negative change in red
   
-![2014 Historical Data](/Images/2014 Historical Data.png)
-![2015 Historical Data](/Images/2015 Historical Data.png)
-![2016 Historical Data](/Images/2016 Historical Data.png)
+![2014 Historical Data](Images/2014 Historical Data.png)
+![2015 Historical Data](Images/2015 Historical Data.png)
+![2016 Historical Data](Images/2016 Historical Data.png)
 
 ## Background
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
