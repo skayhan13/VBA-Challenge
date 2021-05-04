@@ -13,8 +13,8 @@ Create a script using VBA that will loop through all the stocks for one year and
   
   You should also have conditional formatting that will highlight positive change in green and negative change in red
   
-![2014 Historical Data](2014 Historical Data.png)
-![2015 Historical Data](2015 Historical Data.png)
-![2016 Historical Data](2016 Historical Data.png)
+![2014 Historical Data](/2014 Historical Data.png)
+![2015 Historical Data](/2015 Historical Data.png)
+![2016 Historical Data](/2016 Historical Data.png)
 
 
